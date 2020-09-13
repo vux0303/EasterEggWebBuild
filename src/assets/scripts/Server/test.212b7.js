@@ -1,0 +1,1 @@
+cc.game.onStart=function(){console.log("start")};
